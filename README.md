@@ -82,10 +82,6 @@ I am currently pursuing a Bachelor of Computer Engineering at Ho Chi Minh City U
 
 <img src="https://cdn.simpleicons.org/django/092E20?size=32" alt="Django"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flask/000000?size=32" alt="Flask"  />
 
-### 💻 Software
-
-<img src="https://cdn.simpleicons.org/matlab/0076A8?size=32" alt="MATLAB"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />
-
 ### 💻 Other
 
 <img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
