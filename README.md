@@ -48,7 +48,7 @@ I am currently pursuing a Bachelor of Computer Engineering at Ho Chi Minh City U
 
 ### 💻 Programming Languages
 
-<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" alt="C"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" alt="C"   />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
 
 ### 💻 Mobile App Development
 
@@ -73,10 +73,6 @@ I am currently pursuing a Bachelor of Computer Engineering at Ho Chi Minh City U
 ### 💻 DevOps
 
 <img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />
-
-### 💻 Backend as a Service (BaaS)
-
-<img src="https://cdn.simpleicons.org/heroku/430098?size=32" alt="Heroku"  />
 
 ### 💻 Framework
 
